@@ -1,17 +1,26 @@
 <!--![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)-->
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey 👋, soy Edgardo</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;¡Sobre mí!
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+💡 &nbsp;Soy estudiante de Ingeniería de Sistemas con un enfoque en desarrollo frontend. Tengo conocimientos en React, Next.js, TypeScript, JavaScript, manejo de APIs, GitHub, CSS y HTML..\
+🌱 &nbsp;Me adapto rápidamente a diferentes entornos y disfruto trabajando en equipo.\
+✍️ &nbsp;Mi pasión es crear aplicaciones web dinámicas y responsivas. Estoy siempre dispuesto a aprender nuevas tecnologías y afrontar nuevos retos.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+
+¡Sobre mí!
+
+👨🏽‍💻 
+
+🌱  Estoy en busca de oportunidades para desarrollar aún más mis habilidades y ganar más experiencia en el campo del desarrollo frontend.
+
+🤔 
+
+💬 Si tienes alguna pregunta sobre desarrollo frontend o cualquier otra tecnología web, no dudes en contactarme. ¡Estoy aquí para ayudar!
+
+📫 Puedes enviarme un correo a jsmokha33@gmail.com.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
