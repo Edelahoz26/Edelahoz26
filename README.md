@@ -8,7 +8,7 @@
 💡 &nbsp;Soy estudiante de Ingeniería de Sistemas con un enfoque en desarrollo frontend. .\
 🌱 &nbsp;Me adapto rápidamente a diferentes entornos y disfruto trabajando en equipo.\
 ✍️ &nbsp;Mi pasión es crear aplicaciones web dinámicas y responsivas. Estoy siempre dispuesto a aprender nuevas tecnologías y afrontar nuevos retos.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!.\
+📄 &nbsp;Echa un vistazo a mi [currículum](https://www.flipsnack.com/557F7ADD75E/edgardo_de-la-hoz_cv/full-view.html) para obtener más información sobre mí. ¡Estoy abierto a recibir comentarios y sugerencias!.\
 📫 &nbsp;Puedes enviarme un correo a delahoze26@gmail.com.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
