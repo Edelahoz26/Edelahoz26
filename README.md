@@ -9,7 +9,7 @@
 🌱 &nbsp;Me adapto rápidamente a diferentes entornos y disfruto trabajando en equipo.\
 ✍️ &nbsp;Mi pasión es crear aplicaciones web dinámicas y responsivas. Estoy siempre dispuesto a aprender nuevas tecnologías y afrontar nuevos retos.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
-📫 Puedes enviarme un correo a jsmokha33@gmail.com.
+📫 &nbsp;Puedes enviarme un correo a delahoze26@gmail.com.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
