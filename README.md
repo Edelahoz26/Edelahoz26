@@ -5,21 +5,10 @@
 
 ### 👨🏻‍💻 &nbsp;¡Sobre mí!
 
-💡 &nbsp;Soy estudiante de Ingeniería de Sistemas con un enfoque en desarrollo frontend. Tengo conocimientos en React, Next.js, TypeScript, JavaScript, manejo de APIs, GitHub, CSS y HTML..\
+💡 &nbsp;Soy estudiante de Ingeniería de Sistemas con un enfoque en desarrollo frontend. .\
 🌱 &nbsp;Me adapto rápidamente a diferentes entornos y disfruto trabajando en equipo.\
 ✍️ &nbsp;Mi pasión es crear aplicaciones web dinámicas y responsivas. Estoy siempre dispuesto a aprender nuevas tecnologías y afrontar nuevos retos.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
-
-¡Sobre mí!
-
-👨🏽‍💻 
-
-🌱  Estoy en busca de oportunidades para desarrollar aún más mis habilidades y ganar más experiencia en el campo del desarrollo frontend.
-
-🤔 
-
-💬 Si tienes alguna pregunta sobre desarrollo frontend o cualquier otra tecnología web, no dudes en contactarme. ¡Estoy aquí para ayudar!
-
 📫 Puedes enviarme un correo a jsmokha33@gmail.com.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
