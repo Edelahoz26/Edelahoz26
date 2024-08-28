@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;¡Sobre mí!
 
-💡 &nbsp;Soy estudiante de Ingeniería de Sistemas con un enfoque en desarrollo frontend. .\
+💡 &nbsp;Soy estudiante de Ingeniería de Sistemas con un enfoque en desarrollo frontend.\
 🌱 &nbsp;Me adapto rápidamente a diferentes entornos y disfruto trabajando en equipo.\
 ✍️ &nbsp;Mi pasión es crear aplicaciones web dinámicas y responsivas. Estoy siempre dispuesto a aprender nuevas tecnologías y afrontar nuevos retos.\
 📄 &nbsp;Echa un vistazo a mi [currículum](https://www.flipsnack.com/557F7ADD75E/edgardo_de-la-hoz_cv/full-view.html) para obtener más información sobre mí. ¡Estoy abierto a recibir comentarios y sugerencias!.\
@@ -25,4 +25,4 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4ca00be6-8466-4999-bea4-976050c5b9be/deploy-status)](https://app.netlify.com/sites/dev-edgardo/deploys)
