@@ -9,7 +9,7 @@
 🌱 &nbsp;Me adapto rápidamente a diferentes entornos y disfruto trabajando en equipo.\
 ✍️ &nbsp;Mi pasión es crear aplicaciones web dinámicas y responsivas. Estoy siempre dispuesto a aprender nuevas tecnologías y afrontar nuevos retos.\
 📄 &nbsp;Echa un vistazo a mi [currículum](https://resume.io/r/m8QtuoYBi) para obtener más información sobre mí. ¡Estoy abierto a recibir comentarios y sugerencias!.\
-📫 &nbsp;Puedes enviarme un correo a delahoze26@gmail.com.
+📫 &nbsp;Puedes enviarme un correo a delahoze64@gmail.com.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
