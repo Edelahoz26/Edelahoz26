@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;¡Sobre mí!
 
-💡 &nbsp;Soy estudiante de Ingeniería de Sistemas con un enfoque en desarrollo frontend.\
+💡 &nbsp;Soy Ingeniero de Sistemas con un enfoque en desarrollo frontend.\
 🌱 &nbsp;Me adapto rápidamente a diferentes entornos y disfruto trabajando en equipo.\
 ✍️ &nbsp;Mi pasión es crear aplicaciones web dinámicas y responsivas. Estoy siempre dispuesto a aprender nuevas tecnologías y afrontar nuevos retos.\
 📄 &nbsp;Echa un vistazo a mi [currículum](https://resume.io/r/m8QtuoYBi) para obtener más información sobre mí. ¡Estoy abierto a recibir comentarios y sugerencias!.\
